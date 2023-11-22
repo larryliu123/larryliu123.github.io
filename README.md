@@ -8,8 +8,8 @@ I am a 1-st year student in Computer Science at the University of Washington, Se
 (\* denotes equal contribution)
 
 ### Preprints
-- [EfficientML -- elk recognition]
-<br>**Emmanuel Azuh**, Larry Liu, Anderson, et el.
+- **[EfficientML -- elk recognition]**
+<br>Emmanuel Azuh, Larry Liu, Anderson, et el.
 
 
 ## 🎓 Education
