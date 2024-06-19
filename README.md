@@ -1,5 +1,5 @@
 
-I am a 1-st year student in Computer Science at the University of Washington, Seattle, Before that, I was at the Lakeside School in Seattle, where I was fortunate to be advised by Erik Christensen. In the past, I spent time playing soccer and coding.
+Studying Computer Science and Applied Mathematics at the University of Washington, Seattle.
 
 **Research Interests**: My current research interests are **interactive and data-centric AI/ML** with an emphasis on **faithful evaluation** and **effort-light approaches** with applications in chemistry, biology, physics, etc. My past explorations lay at the intersection of machine learning, data mining, and natural language processing.
 
@@ -7,14 +7,17 @@ I am a 1-st year student in Computer Science at the University of Washington, Se
 ## 📝 Selected Projects
 (\* denotes equal contribution)
 
-### Preprints
-- **[EfficientML -- elk recognition]**
-<br>Emmanuel Azuh, Larry Liu, Anderson, et el.
+### Projects
+- **[Towards Low Resource Multimodal Models for Edge (Ecological) Monitoring (EECV 2024)]**
+<br>Emmanuel, Larry, Yitong, Kheimer, Anderson, et el.
+
+<!-- - **[Productivity Monitoring]**
+<br> -->
 
 
 ## 🎓 Education
-- University of Washington - B.S. in Computer Science  2023 - 2027 (expected). 
-- Lakeside School - High School 
+- University of Washington - B.S. in Computer Science and Applied Mathematics, Honors 2023 - 2026 (Expected). 
+- Lakeside School, Seattle - High School 
 
 <!-- ## 👨‍💻 Industrial Experience
 - Microsoft Research (Redmond) - Research Intern
