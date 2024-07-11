@@ -7,6 +7,9 @@ Studying Computer Science and Applied Mathematics at the University of Washingto
 ## 📝 Selected Projects
 (\* denotes equal contribution)
 
+- **[Improving Mobile Vision Transformer Energy Efficiency Through Structured Sparsity (ICML 2024)]**
+<br>Emmanuel, Larry, Sathvik.
+
 ### Projects
 - **[Towards Low Resource Multimodal Models for Edge (Ecological) Monitoring (EECV 2024)]**
 <br>Emmanuel, Larry, Yitong, Kheimer, Anderson, et el.
